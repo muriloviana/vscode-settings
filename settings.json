@@ -1,0 +1,26 @@
+{
+    "workbench.tree.indent": 16,
+    "editor.wordWrapColumn": 80,
+    "editor.rulers": [
+        80
+    ],
+    "editor.renderIndentGuides": false,
+    "breadcrumbs.enabled": true,
+    "editor.minimap.enabled": true,
+    "editor.renderControlCharacters": false,
+    "editor.formatOnSave": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    // Python settings
+    "python.autoComplete.addBrackets": true,
+    "python.venvPath": "~/.virtualenvs",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "79"
+    ]
+}
