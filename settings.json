@@ -22,6 +22,7 @@
     },
     "python.autoComplete.addBrackets": false,
     "python.formatting.provider": "black",
+    "python.formatting.blackPath": "~/.local/bin/black",
     "python.linting.flake8Enabled": false,
     "python.linting.pylintEnabled": false,
     "workbench.editorAssociations": {
