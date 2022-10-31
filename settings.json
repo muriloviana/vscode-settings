@@ -6,7 +6,6 @@
     "editor.formatOnSave": false,
     "editor.minimap.enabled": true,
     "editor.renderControlCharacters": false,
-    "editor.renderIndentGuides": false,
     "editor.rulers": [
         88
     ],
@@ -28,5 +27,8 @@
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
     },
-    "workbench.tree.indent": 16
+    "workbench.tree.indent": 16,
+    "workbench.colorTheme": "Default Dark+",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.guides.indentation": false,
 }
